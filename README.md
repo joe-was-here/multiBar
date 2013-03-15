@@ -1,0 +1,4 @@
+multiBar
+========
+
+Multiway progress bar
